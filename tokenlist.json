@@ -15,21 +15,17 @@
         }
   ]
 }
-,
 {
-  "address": "TTaA2vZ4sEhUwoW3UNjN14kS7wXqMQ9Faz",
+  "address": "TSiFFt6g8Yc2GpvXDoHA6xxAQsvXCLGAgP",
   "symbol": "UUSDT",
   "name": "Utility USD Token",
   "decimals": 6,
-  "logoURI": "https://gateway.pinata.cloud/ipfs/QmVUzUJPys8HtkZg5LDTwcdEJX55PpBo4ZcN2nJ1yJvjG6",
-  "homepage": "https://uusdt.org",
+  "logoURI": "https://raw.githubusercontent.com/Shubham039800/assets/main/blockchains/tron/assets/TSiFFt6g8Yc2GpvXDoHA6xxAQsvXCLGAgP/logo.png",
+  "homepage": "https://uusdttoken.durablesites.com",
   "existingMarkets": [
     {
       "source": "JustMoney",
-      "pairs": [
-        "UUSDT/USDT",
-        "UUSDT/TRX"
-      ]
+      "pairs": ["UUSDT/USDT", "UUSDT/TRX"]
     }
   ]
 }
