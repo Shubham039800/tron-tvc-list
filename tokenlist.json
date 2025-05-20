@@ -20,8 +20,8 @@
   "symbol": "UUSDT",
   "name": "Utility USD Token",
   "decimals": 6,
-  "logoURI": "https://drive.google.com/uc?id=1LVO-kS7VWrSluiDb4FCY6wlB67Z2X_cF",
-  "homepage": "https://uusdttoken.durablesites.com",
+  "logoURI": "https://uusdt.netlify.app/tron-logo.png",
+  "homepage": "https://uusdt.netlify.app/",
   "existingMarkets": [
     {
       "source": "JustMoney",
